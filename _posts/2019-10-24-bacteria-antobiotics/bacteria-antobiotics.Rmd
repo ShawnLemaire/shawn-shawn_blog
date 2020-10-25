@@ -10,9 +10,7 @@ author:
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
-  - "Bacteria"
-  - "Adaptation"
-preview: images/jpg120051fa.png
+preview: images/jpg1200551fa.png
 #draft: TRUE
 bibliography: biblio/bacteria.bib
 output:
@@ -25,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![](images/jpg120051fa.png)
+![](images/illustration-d-aquarelle-de-méduses-méduse-peinte-d-isolement-sur-le-fond-blanc-faune-sous-marine-67161407.jpg)
 
 This post is an analysis of Analysis of *More than 6,000 antibiotic resistance genes discovered in the bacteria that inhabit the human gut* [@UniversityofBirmingham]. 
 

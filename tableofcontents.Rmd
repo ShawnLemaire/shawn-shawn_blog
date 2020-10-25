@@ -1,0 +1,8 @@
+---
+title: "Table of contents"
+author:
+  - "Lemaire Shawn"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+

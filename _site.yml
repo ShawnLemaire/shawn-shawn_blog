@@ -1,12 +1,17 @@
 name: "blog-template"
 title: "Shawn's blog"
 output_dir: "docs"
+favicon: imageméduse.jpg
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: "posts/meal/index.html"
+    - text: "English fo Science"
+      menu:
+        - text: "M.E.A.L."
+          href: meal.html
+        - text: "Table of contents"
+          href: tableofcontents.html
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
@@ -15,7 +20,6 @@ base_url: ShawnLemaire.github.io/shawn-shawn_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: 
 output:
   distill::distill_article:
     css: style.css
