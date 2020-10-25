@@ -27,19 +27,13 @@
   {
     "path": "posts/article1/",
     "title": "Article 1",
-    "description": "A short description of the post.",
+    "description": "Discovery enables adult skin to regenerate like a newborn's|",
     "author": [
       {
-        "name": "Student Unknown",
-        "url": {}
-      },
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      },
-      {
-        "name": "Engels Guyliann",
-        "url": "https://guyliann.netlify.com/fr"
+        "name": "Shawn Lemaire",
+        "url": {
+          "https://github.com/ShawnLemaire": {}
+        }
       }
     ],
     "date": "2020-10-25",
@@ -47,7 +41,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-10-25T14:36:08+01:00"
+    "last_modified": "2020-10-25T15:42:44+01:00"
   },
   {
     "path": "posts/meal/",
