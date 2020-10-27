@@ -1,6 +1,6 @@
 ---
 title: "Article 1"
-description: Discovery enables adult skin to regenerate like a newborn's|
+description: Discovery enables adult skin to regenerate like a newborn's
   
 author:
   - name: Shawn Lemaire
@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Source of the article and dates 
 **Source** : https://www.sciencedaily.com/releases/2020/09/200929123512.htm
 
-**Publication date** : September 29, 2020
+**Publication date** : September 29th, 2020
 
 **Consultation date of the article** : October 22, 2020
 
@@ -42,7 +42,4 @@ knitr::opts_chunk$set(echo = FALSE)
 | Procedure / What was examined | A genetic factor is discovered in the skin of baby mice that allows them to grow fur during their first week of life. It is no longer activated in the skin of adult mice which, when injured, will have a scar and a permanent lack of fur on the wound. Scientists have succeeded in activating this factor. Adult mice now had an incredible regenerative capacity, they no longer had scars and hair grew back at the wound site and mice could get goose bumps on the wound, which is not true in humans. After sequencing RNA from infant and adult cells and comparing them, the scientists discovered the transcription factor for the proteins that influence the activation of certain genes associated with certain cells in the dermis: fibroblasts, which give the skin its youthful appearance when the factor is activated. The scientists activated this factor in the skin of adult mice and then found that the animals had no scars after being injured. |
 | Conclusion / Discovery | After having discovered something like that, i.e. the factor regulating tissue regeneration, they have to try to find out how to do the same thing with humans, knowing that babies did not keep any scars after in utero surgery. |
 | Remaining questions | / |
-
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
