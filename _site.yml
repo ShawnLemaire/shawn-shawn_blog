@@ -19,6 +19,7 @@ navbar:
 base_url: ShawnLemaire.github.io/shawn-shawn_blog/
 collections:
     posts:
+      disqus: shawns-blog-1
       share: [twitter, linkedin, facebook]
 output:
   distill::distill_article:
