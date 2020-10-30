@@ -16,7 +16,7 @@ navbar:
       href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/ShawnLemaire/shawn-shawn_blog
-base_url: http://ShawnLemaire.github.io/shawn-shawn_blog/
+base_url: https://ShawnLemaire.github.io/shawn-shawn_blog/
 collections:
     post:
       share: [twitter, linkedin, facebook]
