@@ -1,6 +1,6 @@
 ---
 title: "Article 1"
-description: Discovery enables adult skin to regenerate like a newborn's
+description: "Discovery enables adult skin to regenerate like a newborn's"
   
 author:
   - name: Shawn Lemaire

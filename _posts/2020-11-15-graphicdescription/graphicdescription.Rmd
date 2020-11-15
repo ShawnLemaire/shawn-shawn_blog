@@ -1,0 +1,43 @@
+---
+title: "Graphic description"
+description: "This article deals with data on Zooplankton"
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+categories:
+  - "Data Sciences I"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+SciViews::R
+```
+
+## Importation des données
+
+```{r}
+zooplankton <- read("zooplankton", package = "data.io", lang = "FR")
+```
+
+## The graphic
+
+### Introduction
+
+The database used here is a table full of zooplankton data collected by biological researchers. It contains figures reflecting certain physical criteria of this marine fauna such as the perimeter, the most opaque part or the most transparent part of the animal. These data were collected in Tulear, Madagascar.
+
+### The graphic
+
+```{r}
+chart(zooplankton, area ~ class %fill=% class) +
+  geom_violin() +
+  coord_flip() +
+  labs(y = "Area [mm^2]", x = "Class" )
+```
+
+### Explaination
+
+We can see that 13 of the 17 classes do not contain animals with an area greater than 5 square millimetres. The Cnidarians, Annelids, Chaetognaths and Round Egg classes are the 4 dominant classes from an area point of view, the largest being the Cnidarians. Finally, Cnidarians and Chaetognaths are the only two classes with a perfect homogeneity in the number of species present at each size level; the other classes are composed of more species on the lower levels of range size.
+
