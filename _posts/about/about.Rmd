@@ -1,5 +1,7 @@
 ---
 title: "About Me"
+description: "This way to know who I am and why I'm here !"
+
 author:
   - name: "Shawn Lemaire" 
 date: "`r Sys.Date()`"
