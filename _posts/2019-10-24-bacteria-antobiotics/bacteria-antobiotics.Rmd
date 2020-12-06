@@ -10,7 +10,7 @@ author:
 date: "`r Sys.Date()`"
 categories:
   - "English for Science"
-preview: images/jpg1200551fa.png
+preview: images/imageméduse.jpg
 #draft: TRUE
 bibliography: biblio/bacteria.bib
 output:

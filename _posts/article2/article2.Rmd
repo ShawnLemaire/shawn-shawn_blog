@@ -1,0 +1,46 @@
+---
+title: "Article 2"
+description: "Green is more than skin-deep for hundreds of frog species"
+  
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article and dates 
+**Source** : https://www.sciencedaily.com/releases/2020/07/200713165602.htm
+
+**Publication date** : July 13th, 2020
+
+**Consultation date of the article** : October 23, 2020
+
+**Word count** : 205 words 
+
+## Important vocabulary
+
+| Word from the text | Synonym / definition | French translation |
+|-----|-----|-----|
+| 1. Chromatophores | Pigment cells that reflect light to appear a certain colour. | Chromatophores |
+| 2. Enzyme | Organic molecule acting as a catalyst in a particular chemical reaction, it accelerates them | Enzyme |
+
+## Analysis table about the study
+
+| Basic analysis subjects | Informations |
+|-----|-----|
+| Researchers | Duke University |
+| Published in / When ? | July 13th, 2020 |
+| General topic | People think that all frogs have their colour which comes from their skin but some have a translucent skin which allows them to be green. How it happens? |
+| Procedure / What was examined | Camouflage is essential for frogs and toads to avoid being hunted. Some use chromatophores in their skin to look green and others have translucent skin to let the green light out of their bodies. The greenness comes from inside the animal, and more precisely from a combination of a "normally anti-virus-like protein with a toxic by-product of blood degradation", biliverdine. These special frogs contain 4 times more of this toxin than a sick human and 200 times more than chromatophore frogs. This molecule is toxic because of its activity as a protease inhibitor, as protease stops viral expansion and detoxifies enzymes. Biliverdine is not green at the base but cyan and must therefore be coupled with a yellow pigment to give the frog its green colour. |
+| Conclusion / Discovery | This way of appearing green has been born more than 40 times in 11 frog families around the world, we can speak of convergence in evolution. And even more impressively, we can see that evolution uses all sorts of means to involve, even if it is normally dangerous, nature is really ingenious. |
+| Remaining questions | / |
+
