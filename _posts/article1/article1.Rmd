@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text | Synonym / definition | French translation |
 |-----|-----|-----|
-| 1. fibroblasts | A fibroblast is a cell present in the connective tissue; it is sometimes called a support cell. It is mainly resident cells of the dermis that ensure its coherence and flexibility. | fibroblastes |
+| 1. Fibroblast | A fibroblast is a cell present in the connective tissue; it is sometimes called a support cell. It is mainly resident cells of the dermis that ensure its coherence and flexibility. | Fibroblaste |
 
 ## Analysis table about the study
 

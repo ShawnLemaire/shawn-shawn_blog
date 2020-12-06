@@ -30,7 +30,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text | Synonym / definition | French translation |
 |-----|-----|-----|
-| 1.  | 1.  | 1.  |
+| 1. Melanin | Dark biological pigments, which are responsible in particular for the colouring of the teguments in the animal kingdom. | Mélanine |
+| 2. Melanosome | The melanosome is an intracellular organelle within which melanins are produced. | Mélanosomes |
 
 ## Analysis table about the study
 
@@ -38,6 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |-----|-----|
 | Researchers | Alexander Davis from Duke University and Karen Osborn from the Smithsonian National Museum of Natural History |
 | Published in / When ? | July 16th, 2020 |
-| General topic |  |
-| Conclusion / Discovery |  |
+| General topic | Some fish can be "invisible" thanks to their skin, which absorbs more than 99.9% of the light. |
+| Procedure / What was examined | Some fish can be "invisible" thanks to their skin, which absorbs more than 99.9% of the light. There are several fish ( and a few other animals like spiders, birds,...) that are able to do this but the champion reflects less than 0.05% of the light while the black paper on the market reflects 10%. They have pigments in their skin that swallow light with very good efficiency. Most animals have melanin to appear coloured in melanosomes arranged in a single layer that reflects the light not being absorbed by it, but not ultra-black animals. In the case of Pisces, it is a technique to approach their prey without being seen or to attract them with a bioluminescent lure and thus hunt easily. It may seem useless in the depths of the ocean when you know that there is no light in the middle, but there are a lot of bioluminescent animals, it is really a rainbow and it is therefore very interesting to be invisible. |
+| Conclusion / Discovery | Thanks to samples on these animals, we have discover that ultra-black animals have many packets of melanosom that absorb the light and DERIVE the part that has not been absorbed towards another packet of melanosomes that swallows the light again and so on. |
 | Remaining questions | / |
