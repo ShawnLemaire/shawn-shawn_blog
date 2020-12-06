@@ -1,0 +1,43 @@
+---
+title: "Article 3"
+description: "How Ultra-Black Fish Disappear in the Deepest Seas"
+  
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article and dates 
+**Source** : https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html
+
+**Publication date** : July 16th, 2020
+
+**Consultation date of the article** : October 23th, 2020
+
+**Word count** :  words 
+
+## Important vocabulary
+
+| Word from the text | Synonym / definition | French translation |
+|-----|-----|-----|
+| 1.  | 1.  | 1.  |
+
+## Analysis table about the study
+
+| Basic analysis subjects | Informations |
+|-----|-----|
+| Researchers | Alexander Davis from Duke University and Karen Osborn from the Smithsonian National Museum of Natural History |
+| Published in / When ? | July 16th, 2020 |
+| General topic |  |
+| Conclusion / Discovery |  |
+| Remaining questions | / |

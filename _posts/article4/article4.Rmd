@@ -1,0 +1,43 @@
+---
+title: "Article 4"
+description: "Snakes reveal the origin of skin colours"
+  
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article and dates 
+**Source** : https://phys.org/news/2020-10-snakes-reveal-skin-colours.html
+
+**Publication date** : October 5th, 2020
+
+**Consultation date of the article** : October 22th, 2020
+
+**Word count** :  words 
+
+## Important vocabulary
+
+| Word from the text | Synonym / definition | French translation |
+|-----|-----|-----|
+| 1.  | 1.  | 1.  |
+
+## Analysis table about the study
+
+| Basic analysis subjects | Informations |
+|-----|-----|
+| Researchers | University of Geneva |
+| Published in / When ? | October 5th, 2020 |
+| General topic |  |
+| Conclusion / Discovery |  |
+| Remaining questions | / |

@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Publication date** : September 29th, 2020
 
-**Consultation date of the article** : October 22, 2020
+**Consultation date of the article** : October 22th, 2020
 
 **Word count** : 230 words 
 
