@@ -1,5 +1,68 @@
 [
   {
+    "path": "posts/article1/",
+    "title": "Article 1",
+    "description": "Discovery enables adult skin to regenerate like a newborn's",
+    "author": [
+      {
+        "name": "Shawn Lemaire",
+        "url": {
+          "https://github.com/ShawnLemaire": {}
+        }
+      }
+    ],
+    "date": "2020-12-07",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": "posts/article1/Imagearticle1.png",
+    "last_modified": "2020-12-07T21:16:51+01:00",
+    "preview_width": 360,
+    "preview_height": 360
+  },
+  {
+    "path": "posts/article2/",
+    "title": "Article 2",
+    "description": "Green is more than skin-deep for hundreds of frog species",
+    "author": [
+      {
+        "name": "Shawn Lemaire",
+        "url": {
+          "https://github.com/ShawnLemaire": {}
+        }
+      }
+    ],
+    "date": "2020-12-07",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": "posts/article2/Imagearticle2.png",
+    "last_modified": "2020-12-07T21:18:39+01:00",
+    "preview_width": 396,
+    "preview_height": 256
+  },
+  {
+    "path": "posts/article3/",
+    "title": "Article 3",
+    "description": "How Ultra-Black Fish Disappear in the Deepest Seas",
+    "author": [
+      {
+        "name": "Shawn Lemaire",
+        "url": {
+          "https://github.com/ShawnLemaire": {}
+        }
+      }
+    ],
+    "date": "2020-12-07",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": "posts/article3/Imagearticle3.png",
+    "last_modified": "2020-12-07T21:19:50+01:00",
+    "preview_width": 369,
+    "preview_height": 369
+  },
+  {
     "path": "posts/article4/",
     "title": "Article 4",
     "description": "Snakes reveal the origin of skin colours",
@@ -15,8 +78,10 @@
     "categories": [
       "English for Science"
     ],
-    "preview": {},
-    "last_modified": "2020-12-07T12:15:37+01:00"
+    "preview": "posts/article4/Imagearticle4.png",
+    "last_modified": "2020-12-07T21:20:49+01:00",
+    "preview_width": 500,
+    "preview_height": 500
   },
   {
     "path": "posts/meal/",
@@ -35,63 +100,6 @@
     ],
     "preview": {},
     "last_modified": "2020-12-07T13:00:30+01:00"
-  },
-  {
-    "path": "posts/article1/",
-    "title": "Article 1",
-    "description": "Discovery enables adult skin to regenerate like a newborn's",
-    "author": [
-      {
-        "name": "Shawn Lemaire",
-        "url": {
-          "https://github.com/ShawnLemaire": {}
-        }
-      }
-    ],
-    "date": "2020-12-06",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-06T15:59:09+01:00"
-  },
-  {
-    "path": "posts/article2/",
-    "title": "Article 2",
-    "description": "Green is more than skin-deep for hundreds of frog species",
-    "author": [
-      {
-        "name": "Shawn Lemaire",
-        "url": {
-          "https://github.com/ShawnLemaire": {}
-        }
-      }
-    ],
-    "date": "2020-12-06",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-06T15:59:15+01:00"
-  },
-  {
-    "path": "posts/article3/",
-    "title": "Article 3",
-    "description": "How Ultra-Black Fish Disappear in the Deepest Seas",
-    "author": [
-      {
-        "name": "Shawn Lemaire",
-        "url": {
-          "https://github.com/ShawnLemaire": {}
-        }
-      }
-    ],
-    "date": "2020-12-06",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-06T21:12:20+01:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",

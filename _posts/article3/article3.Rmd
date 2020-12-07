@@ -6,6 +6,7 @@ author:
   - name: Shawn Lemaire
     url: {https://github.com/ShawnLemaire}
 date: "`r Sys.Date()`"
+preview: Imagearticle3.png
 categories:
   - "English for Science"
 output:
