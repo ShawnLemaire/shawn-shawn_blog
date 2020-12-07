@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/article4/",
+    "title": "Article 4",
+    "description": "Snakes reveal the origin of skin colours",
+    "author": [
+      {
+        "name": "Shawn Lemaire",
+        "url": {
+          "https://github.com/ShawnLemaire": {}
+        }
+      }
+    ],
+    "date": "2020-12-07",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": {},
+    "last_modified": "2020-12-07T12:15:37+01:00"
+  },
+  {
     "path": "posts/article1/",
     "title": "Article 1",
     "description": "Discovery enables adult skin to regenerate like a newborn's",
@@ -54,26 +73,7 @@
       "English for Science"
     ],
     "preview": {},
-    "last_modified": "2020-12-06T17:19:05+01:00"
-  },
-  {
-    "path": "posts/article4/",
-    "title": "Article 4",
-    "description": "Snakes reveal the origin of skin colours",
-    "author": [
-      {
-        "name": "Shawn Lemaire",
-        "url": {
-          "https://github.com/ShawnLemaire": {}
-        }
-      }
-    ],
-    "date": "2020-12-06",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-12-06T13:34:45+01:00"
+    "last_modified": "2020-12-06T21:12:20+01:00"
   },
   {
     "path": "posts/2019-10-24-bacteria-antobiotics/",

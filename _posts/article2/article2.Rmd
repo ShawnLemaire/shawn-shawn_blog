@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text | Synonym / definition | French translation |
 |-----|-----|-----|
-| 1. Chromatophores | Pigment cells that reflect light to appear a certain colour. | Chromatophores |
+| 1. Chromatophore | Pigment cell that reflects light to appear a certain colour. | Chromatophore |
 | 2. Enzyme | Organic molecule acting as a catalyst in a particular chemical reaction, it accelerates them. | Enzyme |
 
 ## Analysis table about the study

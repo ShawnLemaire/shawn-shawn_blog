@@ -24,13 +24,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Consultation date of the article** : October 22th, 2020
 
-**Word count** :  words 
+**Word count** : 179 words 
 
 ## Important vocabulary
 
 | Word from the text | Synonym / definition | French translation |
 |-----|-----|-----|
-| 1.  | 1.  | 1.  |
+| 1. Chromatophore | Pigment cell that reflects light to appear a certain colour. | Chromatophore |
+| 2. Organelle | Cellular element having a particular fonction like the nucleus or the mitochondries that allows celluar breathing | Organite |
+| 3. Lysosome | Organelle which swallow cellular rubbish to catabolyse and eliminate it out of the cell | Lysosome |
 
 ## Analysis table about the study
 
@@ -38,6 +40,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |-----|-----|
 | Researchers | University of Geneva |
 | Published in / When ? | October 5th, 2020 |
-| General topic |  |
-| Conclusion / Discovery |  |
+| General topic | What creates skin colour and variety? Which cells contain the colours? |
+| Procedure / What was examined | The skin colour of all vertebrates comes from chromatophores which are of three different types: melanophores for the black or brown colour thanks to pigments, xanthophores for the yellow or red colour, and iridophores for the rest thanks to crystals. Snakes have all three types, which is why there is such a wide variety of colours, unlike mammals which have only melanophores. These chromatophores are cells that contain pigments or crystals and, in the case of melanophores, the pigments are stored in an organelle called LRO which comes from the lysosomes. In addition, experience has shown that mutations in the LYST gene, which codes for lysosome trafficking, are associated with a change in the snake's skin colour and, in the case of humans, can cause albinism; which effectively links the two. |
+| Conclusion / Discovery | "By characterizing the mutant gene, the study has shown for the first time that the different chromatophores were not created from scratch during evolution but that they all entail a basic mechanism involving LROs." by Michel Milinkovitch |
 | Remaining questions | / |
