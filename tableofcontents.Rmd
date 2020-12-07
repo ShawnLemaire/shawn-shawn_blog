@@ -5,6 +5,17 @@ author:
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
+
+## About me
+
+[About me](https://shawnlemaire.github.io/shawn-shawn_blog/posts/about/)
+
+## My english activity log
+
+[MEAL](https://shawnlemaire.github.io/shawn-shawn_blog/posts/meal/)
+
+## My articles
+
 [Article 1](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article1/)
 
 [Article 2](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article2/)
