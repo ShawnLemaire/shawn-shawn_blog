@@ -27,6 +27,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Word count** : 215 words 
 
+**Picture credits** : Karen Osborn / Smithsonian National Museum of Natural History
+
 ## Important vocabulary
 
 | Word from the text | Synonym / definition | French translation |
