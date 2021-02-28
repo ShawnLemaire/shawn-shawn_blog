@@ -1,0 +1,56 @@
+---
+title: "Article 5"
+description: "Physics of snakeskin sheds light on sidewinding"
+
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+preview: photoserpent.png
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Source of the article and dates 
+**Source** : https://phys.org/news/2021-02-physics-snakeskin-sidewinding.html
+
+**Publication date** : September 29th, 2020
+
+**Consultation date of the article** : February 1st, 2021
+
+**Word count** : 253 words 
+
+## Important vocabulary
+
+| Word from the text | Synonym / definition | French translation |
+|-----|-----|-----|
+| / | / | / |
+
+## Analysis table about the study
+
+| Basic analysis subjects | Informations |
+|-----|-----|
+| Researchers | Emory University |
+| Published in / When ? | February 1st, 2021 |
+| General topic | The different kind of snake skin according to the environment can contribute to improve our technology |
+| Procedure / What was examined | Most snakes move as one can imagine, head first and the rest of the body behind them. However, some called "sidewinders" and living in the deserts of North America or Africa move sideways, i.e. the tail and head are at the same level when they move. The snake will raise its middle section of the ground to move while the others keep their body in contact with the substrate at all times. By analysing their skin under a microscope, the scientists discovered that they do not have those small 20-micron wide peaks that all other snakes have. These peaks pointing from head to tail are very useful for a forward movement but not at all for "sidewinders" because the friction with the ground would be too much when the "usual" snakes slide very easily. Some mathematical models prove this hypothesis Snakes in sand deserts have, instead of peaks, many micro-pits, such as small suckers (they may actually have a few peaks but they will be very small) that improve lateral movement and allow the snakes to move on sandy slopes and avoid sand avalanches. This is an evolutionary advantage that can be used to find a way for our robots to move over difficult terrain. Researcher Dr. Rieser is studying how the snake's skin interacts with various surfaces to try to copy this for human technology. |
+| Remaining questions | / |
+
+
+
+
+
+
+
+
+
+
+
+
