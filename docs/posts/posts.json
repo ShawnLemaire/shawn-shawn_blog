@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/article6/",
+    "title": "Article 6",
+    "description": "Translucent frog optics create camo color",
+    "author": [
+      {
+        "name": "Shawn Lemaire",
+        "url": {
+          "https://github.com/ShawnLemaire": {}
+        }
+      }
+    ],
+    "date": "2021-03-11",
+    "categories": [
+      "English for Science"
+    ],
+    "preview": "posts/article6/grenouille.png",
+    "last_modified": "2021-03-11T14:50:09+01:00",
+    "preview_width": 258,
+    "preview_height": 258
+  },
+  {
     "path": "posts/article5/",
     "title": "Article 5",
     "description": "Physics of snakeskin sheds light on sidewinding",
