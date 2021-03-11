@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Consultation date of the article** : March 11rd, 2021
 
-**Word count** : ??? words 
+**Word count** : 300 words 
 
 **Picture credits** : COSTA RICAN AMPHIBIAN RESEARCH CENTER via academia.edu
 
@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Word from the text | Synonym / definition | French translation |
 |-----|-----|-----|
-| / | / | / |
+| 1. Chromatophore | Pigment cell that reflects light to appear a certain colour. | Chromatophore |
 
 ## Analysis table about the study
 
@@ -41,46 +41,12 @@ knitr::opts_chunk$set(echo = FALSE)
 |-----|-----|
 | Researchers |  |
 | Published in / When ? | August 4th, 2020 |
-| General topic |  |
-| Procedure / What was examined | Some animals have cells in their skin which contain chromatophores but these frogs prefer to be translucent this allow to the light reflect by the substrat to go through their, which is better than a green camouflage that frogs can not change
-
-Many marin animals have developped this technic but there only a few of terrestre metazoa that have this ability. There are several reasons that explain that.
-First, the difference between the two environment which is under water on the on hand, and on the other hand which is aerian. The intercation between the tissues and the light will be modified
-Indeed, the light in the seas and in the oceans always comes from above while depth are dark. In the jungle, light comes from all directions as long as we are not above canopy.
-
-This frog is not really transparent but tranlucent cause his skin is thin enough so that the light can traverse it
-
-
-
-
-
-
-|In the ocean, light is always coming from above, and the background is less variable. But in jungle canopy, light is coming from many directions, and the background is far more variable. Enter a little critter called the glass frog. It’s not actually transparent; it’s translucent. That means its skin in some places is thin enough that you can actually see its internal organs hard at work. 
-
-“Most of the time, when you see photographs of these frogs, they’re taken under quite controlled conditions, with either strong lighting, like a powerful flash, or they’re photographed from underneath on a piece of glass, and it’s really their bellies which are transparent. And these frogs are pretty small and thin and quite delicate, so if you have a powerful flash on your camera, you can sort of just blast light through them, and they will look pretty transparent.”
-
-Barnett says the frog’s translucent skin is actually a novel camouflage strategy that no one’s ever really studied—until now.
-
-“What we think is happening is that light is traveling through the frog, interacting with the pigmentation. But a lot of it does pass through the frog. Some of that light will be absorbed by the background underneath the frog. But some of it will be reflected off that background and come back through the frog.”  
-
-So if a glass frog is sitting on a bright green leaf, high in the jungle canopy, the light passing through its thin skin and onto the leaf will make the frog appear brighter in color, matching more closely with the leaf.
-
-The jungle canopy is filled with leaves, but it’s also filled with predators: birds, snakes, mammals and even invertebrates in search of their next meal. 
-
-“And these animals are quite—their visual systems are pretty cued in to finding differences in luminance and brightness between different patches. So they’re quite good at finding prey based on differences between the background and the animal’s brightness. And by being translucent, it seems, these frogs are able to have an adaptive camouflage.”
-
-So regardless of whether the leaf is dark or bright, if the glass frog is sitting on it, it will appear to change to more closely match its background. The study by Barnett and colleagues is in the Proceedings of the National Academy of Sciences. [James B. Barnett el al., Imperfect transparency and camouflage in glass frogs]
-
-With around 150 known species of glass frogs in the world, Barnett says the next project is to find out if the frogs’ translucency may differ based on their individual habitats. One thing is certain: it will be hard to see what they find.
+| General topic | Some animals have cells in their skin that contain chromatophores but these frogs prefer to be translucent, which allows light reflected from the substrate to pass through them, which is better than the green camouflage that usual frogs cannot change. |
+| Procedure / What was examined | Many marine animals have developed this technique but there are only a few terrestrial metazoans that have this ability. There are several reasons for this.
+First of all, the difference between the two environments, which is underwater on the one hand, and air on the other. The interaction between the tissues and light will be modified. 
+In the seas and oceans, light always comes from above, whereas the depths are dark. In the jungle, light comes from all directions, as long as we are not above the canopy.
+This frog is not really transparent but translucent because its skin is thin enough for light to pass through. You can see this when you take a picture of these little creatures with a flash. This is a new camouflage strategy that has not yet been studied. 
+Scientists believe that the light is split into three parts: the first is absorbed by the few pigments in the frog's body, the second by the background in front of the frog, and the last is reflected from the background to reach our eyes through the animal. Thus, a "glass frog" on a leaf will appear green while another on a branch will be brown. |
+| Conclusion / Discovery | They can, with this camouflage, escape predators because predators are adapted to recognise the difference between two sources of light, two shades of light, but here it is the same thing. It's really an adaptive camouflage.
+There are on average 150 species of glass frogs and scientists want to find out if their translucency is adaptive to the environment. |
 | Remaining questions | / |
-
-
-
-
-
-
-
-
-
-
-
