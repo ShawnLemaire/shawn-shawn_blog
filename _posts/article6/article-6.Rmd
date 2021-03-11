@@ -39,7 +39,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Basic analysis subjects | Informations |
 |-----|-----|
-| Researchers |  |
+| Researchers | Jim Barnett, McMaster University in Ontario |
 | Published in / When ? | August 4th, 2020 |
 | General topic | Some animals have cells in their skin that contain chromatophores but these frogs prefer to be translucent, which allows light reflected from the substrate to pass through them, which is better than the green camouflage that usual frogs cannot change. |
 | Procedure / What was examined | Many marine animals have developed this technique but there are only a few terrestrial metazoans that have this ability. There are several reasons for this. First of all, the difference between the two environments, which is underwater on the one hand, and air on the other. The interaction between the tissues and light will be modified. In the seas and oceans, light always comes from above, whereas the depths are dark. In the jungle, light comes from all directions, as long as we are not above the canopy.This frog is not really transparent but translucent because its skin is thin enough for light to pass through. You can see this when you take a picture of these little creatures with a flash. This is a new camouflage strategy that has not yet been studied. Scientists believe that the light is split into three parts: the first is absorbed by the few pigments in the frog's body, the second by the background in front of the frog, and the last is reflected from the background to reach our eyes through the animal. Thus, a "glass frog" on a leaf will appear green while another on a branch will be brown. |
