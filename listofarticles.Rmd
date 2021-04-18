@@ -8,18 +8,16 @@ output: distill::distill_article
 
 ## My articles
 
-[Article 1](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article1/)
+Article 1 : [Discovery enables adult skin to regenerate like a newborn's](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article1/)
 
-[Article 2](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article2/)
+Article 2 : [Green is more than skin-deep for hundreds of frog species](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article2/)
 
-[Article 3](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article3/)
+Article 3 : [How ultra-black fish disappear in the deepest seas](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article3/)
 
-[Article 4](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article4/)
+Article 4 : [Snakes reveal the origin of skin colours](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article4/)
 
-[Article 5](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article5/)
+Article 5 : [Physics of snakeskin sheds light on sidewinding](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article5/)
 
-[Article 6](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article6/)
+Article 6 : [Translucent frog optics create camo color](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article6/)
 
-[Article 7](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article7/)
-
-
+Article 7 : [“Naked” shark was born without skin or teeth in world first](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article7/)
