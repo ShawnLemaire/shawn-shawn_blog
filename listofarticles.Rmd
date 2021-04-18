@@ -1,18 +1,10 @@
 ---
-title: "Table of contents"
+title: "List of articles"
 author:
   - "Lemaire Shawn"
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
-
-## About me
-
-[About me](https://shawnlemaire.github.io/shawn-shawn_blog/posts/about/)
-
-## Introduction 
-
-
 
 ## My articles
 
@@ -30,14 +22,4 @@ output: distill::distill_article
 
 [Article 7](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article7/)
 
-## Conclusion
 
-[Conclusion](https://shawnlemaire.github.io/shawn-shawn_blog/posts/conclusion/)
-
-## Other summaries
-
-
-
-## My english activity log
-
-[MEAL](https://shawnlemaire.github.io/shawn-shawn_blog/posts/meal/)

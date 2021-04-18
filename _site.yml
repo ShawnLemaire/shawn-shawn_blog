@@ -10,8 +10,8 @@ navbar:
       menu:
         - text: "Introduction"
           href: "posts/introduction/index.html"
-        - text: "Table of contents"
-          href: tableofcontents.html
+        - text: "List of articles"
+          href: listofarticles.html
         - text: "Conclusion"
           href: "posts/conclusion/index.html"
         - text: "Other summaries"
@@ -20,6 +20,8 @@ navbar:
           href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
+    - text: "Table of contents"
+      href: tableofcontents.html
     - icon: fab fa-github
       href: https://github.com/ShawnLemaire/shawn-shawn_blog
 base_url: https://ShawnLemaire.github.io/shawn-shawn_blog/
