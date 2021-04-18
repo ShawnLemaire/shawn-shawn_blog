@@ -10,9 +10,9 @@ output: distill::distill_article
 
 [About me](https://shawnlemaire.github.io/shawn-shawn_blog/posts/about/)
 
-## My english activity log
+## Introduction 
 
-[MEAL](https://shawnlemaire.github.io/shawn-shawn_blog/posts/meal/)
+
 
 ## My articles
 
@@ -30,3 +30,10 @@ output: distill::distill_article
 
 [Article 7](https://shawnlemaire.github.io/shawn-shawn_blog/posts/article7/)
 
+## Conclusion
+
+
+
+## My english activity log
+
+[MEAL](https://shawnlemaire.github.io/shawn-shawn_blog/posts/meal/)

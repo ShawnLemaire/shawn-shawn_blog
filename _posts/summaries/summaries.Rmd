@@ -1,0 +1,22 @@
+---
+title: "Two different summaries"
+description: "A short description of two other scientific blogs like this one" 
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

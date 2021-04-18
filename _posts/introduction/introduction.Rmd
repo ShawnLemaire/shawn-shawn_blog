@@ -1,0 +1,26 @@
+---
+title: "Introduction"
+description: "The capabilities of the skin in the animal kingdom"
+  
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Animals have developed many different strategies to survive in the wild: speed, flight, secretion of venom/poison, the presence of a carapace or shell or symbiosis with other living beings. Indeed, there are several metazoans that have incredible skin with abilities such as colour or shape change for the cuttlefish, scales adapted to increase the speed of the shark or to increase the ease of movement for certain snakes... All these abilities are currently being studied, either to simply increase our knowledge, or for a more advanced purpose such as biomimicry, which consists of imitating the techniques that nature has developed to adapt itself in order to integrate it into our technologies. A good example is the glue secreted by sea cucumbers which they use to defend themselves, the production of a glue that can be effective underwater could allow it to be used in the manufacture of boats because we have nothing equivalent at the moment.  
+ 
+This is an interesting subject because, on the one hand, not enough people are interested in it and, on the other hand, it is impressive to see how ingenious and diverse nature is when it comes to surviving, either by defending or attacking, and this, by focusing on a single organ, the skin. 
+ 
+Obviously, there are many different skins and each animal has its own particularity. We can't talk about everything and many interesting subjects had to be omitted either because science is not yet interested enough or because of choices. There are in particular the subjects of melanin, the black skin of polar bears, shell secretions, electric eels,... 
+ 
+So now it's time to learn a little more about all these subjects via some selected scientific articles talking about several different animals like frogs or snakes. For this, we will have to delve into the invisible, the microscopic; grab your magnifying glasses and let's go.

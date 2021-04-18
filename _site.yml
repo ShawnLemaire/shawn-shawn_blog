@@ -8,10 +8,16 @@ navbar:
       href: index.html
     - text: "English fo Science"
       menu:
-        - text: "M.E.A.L."
-          href: meal.html
+        - text: "Introduction"
+          href: "posts/introduction/index.html"
         - text: "Table of contents"
           href: tableofcontents.html
+        - text: "Conclusion"
+          href: "posts/conclusion/index.html"
+        - text: "Other summaries"
+          href: "posts/about/index.html"
+        - text: "M.E.A.L."
+          href: "posts/meal/index.html"
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github

@@ -1,0 +1,19 @@
+---
+title: "Conclusion"
+
+author:
+  - name: Shawn Lemaire
+    url: {https://github.com/ShawnLemaire}
+date: "`r Sys.Date()`"
+categories:
+  - "English for Science"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Nature never ceases to be ingenious, that is what we can conclude after reading these 7 articles. Indeed, we have been able to observe how, faced with any constraint, it has been able to adapt with ever more complex means that even human technologies cannot reproduce. Here is what I find extraordinary and why I chose this subject, evolution can occur at many levels but the skin, being visible, allows a true vision of the ingenuity of nature and its beauty, whether at the micro or macroscopic level. In other cases, our scientists are very often inspired by Mother Nature and her ever more perfect and advanced evolutions to enable the advancement of our robots, our constructions,... Contrary to what we may think, we are not superior to her, we are rather like children who learn more and more things from an extraordinary teacher. She has forged us and now inspires us to do the same.
