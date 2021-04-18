@@ -12,7 +12,7 @@ output: distill::distill_article
 
 ## Introduction 
 
-
+[Introduction](https://shawnlemaire.github.io/shawn-shawn_blog/posts/introduction/)
 
 ## My articles
 

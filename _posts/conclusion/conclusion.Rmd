@@ -1,5 +1,6 @@
 ---
 title: "Conclusion"
+description: "The capabilities of the skin in the animal kingdom"
 
 author:
   - name: Shawn Lemaire
